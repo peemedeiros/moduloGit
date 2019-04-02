@@ -1,3 +1,1 @@
-Meu primeiro sistema no Git
-alteração
-alteração feita no master
+Meu primeiro sistema no Git (alterado e atualizado!)
